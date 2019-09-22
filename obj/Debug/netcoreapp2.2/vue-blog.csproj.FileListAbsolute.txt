@@ -46,3 +46,4 @@ C:\Users\hhh\data\chaos\vue-blog\obj\Debug\netcoreapp2.2\vue-blog.pdb
 C:\Users\hhh\data\chaos\vue-blog\obj\Debug\netcoreapp2.2\vue-blog.csproj.CopyComplete
 C:\Users\hhh\data\chaos\vue-blog\obj\Debug\netcoreapp2.2\Razor\Views\BlogAdmin\Index.g.cshtml.cs
 C:\Users\hhh\data\chaos\vue-blog\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\hhh\data\chaos\vue-blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs

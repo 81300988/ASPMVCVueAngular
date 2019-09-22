@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hhh\\data\\chaos\\vue-blog\\vue-blog.csproj": {}
+    "C:\\Users\\hhh\\data\\chaos\\vue-blog\\vue-blog.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hhh\\data\\chaos\\vue-blog\\vue-blog.csproj": {
+    "C:\\Users\\hhh\\data\\chaos\\vue-blog\\vue-blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hhh\\data\\chaos\\vue-blog\\vue-blog.csproj",
+        "projectUniqueName": "C:\\Users\\hhh\\data\\chaos\\vue-blog\\vue-blog.csproj",
         "projectName": "vue-blog",
-        "projectPath": "c:\\Users\\hhh\\data\\chaos\\vue-blog\\vue-blog.csproj",
+        "projectPath": "C:\\Users\\hhh\\data\\chaos\\vue-blog\\vue-blog.csproj",
         "packagesPath": "C:\\Users\\hhh\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hhh\\data\\chaos\\vue-blog\\obj\\",
+        "outputPath": "C:\\Users\\hhh\\data\\chaos\\vue-blog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

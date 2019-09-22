@@ -2971,6 +2971,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\BlogAdmin\\Index.cshtml",
       "TargetPath": "Views\\BlogAdmin\\Index.cshtml",
       "FileKind": "mvc"

@@ -24,10 +24,10 @@ export default {
     body{
         margin: 0;
     }
-    .card{
-        display: block;
-    }
     .post{
+        margin-top: 0.5rem;
+        background-color: bisque;
+        box-shadow: 0 1px 2px 0 #444;
         display: block;
     }
     .app{
@@ -39,6 +39,7 @@ export default {
         width: 100%;
     }
     .card{
+        display: block;
         margin-top: 0.5rem;
         background-color: bisque;
         box-shadow: 0 1px 2px 0 #444;
