@@ -2,12 +2,14 @@ const path = require('path')
 const VueLoaderPlugin = require('vue-loader/lib/plugin')
 module.exports = {
     mode : "development",
+    target: 'node',
     entry : {
-        'main' : './vue-app/main.js'
+        'bundle' : './vue-app/server.js'
     },
     output : {
         path : path.join(__dirname, 'wwwroot/dist'),
-        filename : 'bundle.js',
+        filename : '[name]-server.js',
+        libraryTarget: 'commonjs2',
         publicPath : '/dist/'
     },
     module : {
